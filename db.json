@@ -1,0 +1,42 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "kishan",
+      "age": 25,
+      "companyId": 1
+    },
+    {
+      "id": 2,
+      "firstName": "Rutuj",
+      "age": 23,
+      "companyId": "1"
+    },
+    {
+      "id": 3,
+      "firstName": "Vaibhav",
+      "age": 24,
+      "companyId": "2"
+    },
+    {
+      "id": 4,
+      "firstName": "Dhruvin",
+      "age": 24,
+      "companyId": 2
+    }
+  ],
+  "companies": [
+    {
+      "id": 1,
+      "name": "Apple"
+    },
+    {
+      "id": 2,
+      "name": "Google"
+    },
+    {
+      "id": 3,
+      "name": "Microsoft"
+    }
+  ]
+}
